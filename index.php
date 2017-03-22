@@ -25,3 +25,4 @@ try {
 catch (Exception $e) {
     erreur($e->getMessage());
 }
+//http://bpesquet.developpez.com/tutoriels/php/evoluer-architecture-mvc/#LII
